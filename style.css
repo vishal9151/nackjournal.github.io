@@ -134,15 +134,15 @@ nav p:hover{
 }
 
 .section1-container .card1{
-    background-image: url(/images/img-1.webp);
+    background-image: url("https://ibb.co/0fVKXDm.jpg");
 }
 
 .section1-container .card2{
-    background-image: url(/images/img-2.webp);
+    background-image: url("https://ibb.co/KbMjv6Q.jpg");
 }
 
 .section1-container .card3{
-    background-image: url(/images/img-3.webp);
+    background-image: url("https://ibb.co/yk48hWR.jpg");
 }
 
 .section1-container .card-content{
